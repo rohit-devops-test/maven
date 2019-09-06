@@ -87,6 +87,6 @@
       <groupId>org.jacoco</groupId>
       <artifactId>org.jacoco.ant</artifactId>
       <version>0.8.1</version>
-      <dependency>
+      </dependency>
   </dependencies>
 </project>
