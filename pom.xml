@@ -52,7 +52,7 @@
 <plugin>
  <groupId>org.jacoco</groupId>
   <artifactId>jacoco-maven-plugin</artifactId>
-  <version>0.8.5-SNAPSHOT</version>
+  <version>0.8.1</version>
  <configuration>
   <destFile>${basedir}/target/coverage-reports/jacoco-unit.exec</destFile>
   <dataFile>${basedir}/target/coverage-reports/jacoco-unit.exec</dataFile>
@@ -87,5 +87,6 @@
       <groupId>org.jacoco</groupId>
       <artifactId>org.jacoco.ant</artifactId>
       <version>0.8.1</version>
+      <dependency>
   </dependencies>
 </project>
