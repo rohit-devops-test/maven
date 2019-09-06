@@ -83,5 +83,9 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.jacoco</groupId>
+      <artifactId>org.jacoco.ant</artifactId>
+      <version>0.8.1</version>
   </dependencies>
 </project>
